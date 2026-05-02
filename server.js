@@ -14,7 +14,7 @@ app.get("/", (req, res) => {
         <div class="container mt-5">
             <h1 class="text-success">🚀 CI/CD Pipeline Active</h1>
             <p class="lead">Node.js App deployed via AWS</p>
-            <p>Version 1</p>
+            <p>Version FORCE DEPLOYED </p>
         </div>
     </body>
     </html>

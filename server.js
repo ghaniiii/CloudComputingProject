@@ -117,11 +117,11 @@ p {
 <div class="circle"></div>
 
 <div class="container">
-  <h1>🚀 CI/CD Pipeline Live</h1>
+  <h1> CI/CD Pipeline Live</h1>
   <p>Your Node.js application is successfully deployed on AWS</p>
   <p><strong>Abdul Ghani Khan</strong></p>
 
-  <div class="badge">Deployment Successful ✅</div>
+  <div class="badge">Deployment Successfully Done</div>
 
   <div class="footer" id="time"></div>
 </div>

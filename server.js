@@ -224,7 +224,6 @@ footer {
   <a href="#" class="btn btn-primary">Launch</a>
 </nav>
 
-=======
 <section class="hero">
   <div class="badge"><span class="badge-dot"></span>Deployment Successful · CI/CD Live</div>
   <h1>Ship products at the <span class="gradient-text">speed of light</span></h1>

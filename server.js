@@ -12,9 +12,9 @@ app.get("/", (req, res) => {
     </head>
     <body class="bg-dark text-white text-center">
         <div class="container mt-5">
-            <h1 class="text-success">🚀 CI/CD Pipeline Active</h1>
+            <h1 class="text-success">Rockettttt CI/CD Pipeline Active</h1>
             <p class="lead">Node.js App deployed via AWS</p>
-            <p>Version FORCE DEPLOYED </p>
+            <p>Abdul Ghani Khan </p>
         </div>
     </body>
     </html>

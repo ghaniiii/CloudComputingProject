@@ -230,7 +230,7 @@ footer {
   <p class="subtitle">Your Node.js app is successfully deployed on AWS. Built, shipped, and scaled — beautifully.</p>
   <div class="cta">
     <a href="#" class="btn btn-primary">Get started →</a>
-    <a href="#features" class="btn btn-ghost">▶ Watch demo</a>
+    <a href="#features" class="btn btn-ghost">▶ Nothing demo</a>
   </div>
   <div class="stats">
     <div class="stat"><div class="stat-num">99.99%</div><div class="stat-label">Uptime</div></div>

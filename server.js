@@ -255,7 +255,6 @@ footer {
     </div>
   </div>
 </section>
->>>>>>> bbce396 (Updated the whole front end)
 
 <div class="marquee">
   <div class="marquee-track">

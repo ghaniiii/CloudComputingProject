@@ -226,7 +226,7 @@ footer {
 
 <section class="hero">
   <div class="badge"><span class="badge-dot"></span>Deployment Successful · CI/CD Live</div>
-  <h1>Ship products at the <span class="gradient-text">speed of light</span></h1>
+  <h1>Kings products at the <span class="gradient-text">speed of light</span></h1>
   <p class="subtitle">Your Node.js app is successfully deployed on AWS. Built, shipped, and scaled — beautifully.</p>
   <div class="cta">
     <a href="#" class="btn btn-primary">Get started →</a>
